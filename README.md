@@ -17,7 +17,7 @@ Sou zootecnista e desenvolvedor Python, atuando em projetos voltados para:
 ---
 
 ## 🔗 Links
-- 🌍 [Meu site – Zootecnia Equina](https://zootecniaequina.com.br)  
+- 🌍 [Meu site – Zootecnia Equina](https://zootecniaequina.com)  
 - 📧 E-mail: a.augusto63.dev@hotmail.com  
 
 ---
